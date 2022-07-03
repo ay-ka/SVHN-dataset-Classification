@@ -52,7 +52,7 @@
 
 <br/>
 
-⭐ main goal is to classify dataset provide SVHN through these 2 models and get accuracy higher than specified limit on <b>Test</b> data
+⭐ <b>main goal is to classify dataset provide SVHN through these 2 models and get accuracy higher than specified limit on Test data</b>
 
 <br/>
 
