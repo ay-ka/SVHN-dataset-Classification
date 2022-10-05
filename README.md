@@ -39,20 +39,20 @@
 
 
 
-<h6>This work is capstone project of a course from coursera that in that work, with the assist of <b>tensorflow</b> library, two kind of models are developed</h6>
+<h6>This work is capstone project of a course from coursera that in that work, with the assist of <b>tensorflow</b> library, the two kinds of models are developed</h6>
 <h6>for classification of SVHN dataset</h6>
 
 
 <br/>
 
-1- fully connected MLP ueral networks
+1- fully connected MLP nueral networks
 
 2 - Convolutional Networks
 
 
 <br/>
 
-⭐ <b>main goal is to classify dataset provide SVHN through these 2 models and get accuracy higher than specified limit on Test data</b>
+⭐ <b>The main goal is to classify dataset provided "SVHN" through these 2 models (fully connected MLP & Convolutional Networks) and get accuracy higher than specified limit, on Test data</b>
 
 <br/>
 
